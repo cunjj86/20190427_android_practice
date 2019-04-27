@@ -23,7 +23,6 @@ public class SpinnerPracticeActivity extends AppCompatActivity {
 
         fillPizzaStores();
 
-
     }
 
     void fillPizzaStores() {
